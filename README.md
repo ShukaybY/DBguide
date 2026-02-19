@@ -1,5 +1,19 @@
 # File_Based Database
 
+[![C++](https://img.shields.io/badge/C++17-blue?logo=c%2B%2B)](https://isocpp.org/) 
+[![Build](https://img.shields.io/badge/build-passing-brightgreen)]()
+[![License](https://img.shields.io/badge/license-MIT-green)]()
+
+- [Overview](#overview)  
+- [Features](#features)  
+- [Concepts Used](#Concepts-Used)  
+- [Project structure](#Project-structure)
+- [Running Instructions](#Running-Instruction)
+- [Data Format Example](#Data-Format-Example)
+- [Ideas Learned](#Ideas-Learned)      
+- [Author](#Author)
+- [License](#license) 
+
 ## Overview
 This project is a c++ file based database. It allows the user to store, retrieve, update, and delete records.
 
@@ -74,3 +88,7 @@ make
 ## Author
 
 Shukayb Yezdani
+
+## License
+
+- This project is licensed under the MIT License — free to use, modify, and share.
