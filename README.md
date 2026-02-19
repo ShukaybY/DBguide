@@ -8,7 +8,7 @@
 - [Features](#features)  
 - [Concepts Used](#Concepts-Used)  
 - [Project structure](#Project-structure)
-- [Running Instructions](#Running-Instruction)
+- [Running Instructions](#Running-Instructions)
 - [Data Format Example](#Data-Format-Example)
 - [Ideas Learned](#Ideas-Learned)      
 - [Author](#Author)
