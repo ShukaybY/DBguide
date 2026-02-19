@@ -53,9 +53,10 @@ FileDatabase/
 ```
 
 ## Running Instructions
-
-- make
-- ./database
+```bash
+make
+./database
+```
 
 ## Data Format Example
 
