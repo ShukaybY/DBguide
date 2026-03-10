@@ -1,0 +1,10 @@
+1,Keyboard,49.99,10
+2,Mouse,19.99,25
+3,Monitor,199.99,8
+4,Laptop Stand,34.50,12
+5,USB-C Cable,9.99,50
+6,External Hard Drive,89.99,6
+7,Webcam,59.99,14
+8,Mechanical Keyboard,129.99,4
+9,Gaming Mouse,69.99,9
+10,Desk Lamp,24.99,18
