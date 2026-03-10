@@ -57,12 +57,23 @@ Data is stored in a text file and loaded to memory to allow changes inbetween pr
 ```bash
 FileDatabase/
 │
-├── product.h 
-├── product.cpp   
-├── Database.h   
-├── Database.cpp  
-├── main.cpp  
-└── products.txt  
+├── CMakeLists.txt
+├── include/
+│   ├── Database.h
+│   └── Product.h
+│
+├── src/
+│   ├── main.cpp
+│   ├── Database.cpp
+│   └── Product.cpp
+│
+├── data/
+│   └── products.txt
+│
+├── build/
+│
+├── README.md
+└── .gitignore 
 
 ```
 
