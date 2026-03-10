@@ -79,6 +79,9 @@ FileDatabase/
 
 ## Running Instructions
 ```bash
+mkdir build
+cd build
+cmake ..
 make
 ./database
 ```
